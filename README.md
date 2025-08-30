@@ -1,3 +1,31 @@
+
+# Expense Tracker 💰
+
+A simple expense tracking app built with **React + TypeScript**.  
+This project helps you practice and showcase your skills in **state management, component design, and UI/UX**.
+
+## Features
+- ➕ Add new expenses (with title, amount, and date)
+- 📋 View a list of all expenses
+- 🗑️ Delete expenses
+- 📊 Future: filter & chart expenses (coming soon)
+
+## Tech Stack
+- ⚛️ React + TypeScript
+- 🎨 Tailwind CSS (optional for styling)
+- 📦 Vite (for fast dev environment)
+
+## Getting Started
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/parastoopourazizi/expense-tracker.git
+
+2.   Install dependencies:
+npm install
+
+3. Run the app:
+npm run dev
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
